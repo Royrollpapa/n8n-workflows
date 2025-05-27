@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>循环溯源数字化平台</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #1a73e8;
+            --text-primary: #202124;
+            --text-secondary: #5f6368;
+            --bg-primary: #FFFFFF;
+            --bg-secondary: #F8F9FA;
+            --border-color: #DADCE0;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --text-primary: #E8EAED;
+                --text-secondary: #9AA0A6;
+                --bg-primary: #202124;
+                --bg-secondary: #3C4043;
+                --border-color: #3C4043;
+            }
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+
+        .slide {
+            width: 297mm;
+            height: 210mm;
+            padding: 20mm;
+            margin: 2rem auto;
+            background: var(--bg-primary);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            position: relative;
+        }
+
+        .slide-title {
+            font-size: 24px;
+            color: var(--primary-color);
+            font-weight: bold;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+        }
+
+        .slide-title .material-icons {
+            margin-right: 8px;
+            font-size: 20px;
+        }
+
+        .slide-content {
+            font-size: 16px;
+            margin-bottom: 1rem;
+        }
+
+        .slide-footer {
+            position: absolute;
+            bottom: 20mm;
+            left: 20mm;
+            right: 20mm;
+            font-size: 12px;
+            color: var(--text-secondary);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .visual-element {
+            margin: 1rem 0;
+            padding: 1rem;
+            background: var(--bg-secondary);
+            border-radius: 4px;
+        }
+
+        .highlight {
+            color: var(--primary-color);
+            font-weight: bold;
+        }
+
+        .list-item {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 0.5rem;
+        }
+
+        .list-item .material-icons {
+            font-size: 16px;
+            margin-right: 4px;
+            color: var(--primary-color);
+        }
+    </style>
+</head>
+<body>
+    <div class="slide">
+        <div class="slide-title">
+            <span class="material-icons">battery_charging_full</span>
+            电池护照背景及必要性
+        </div>
+        <div class="slide-content">
+            <div class="visual-element">
+                <div class="list-item">
+                    <span class="material-icons">trending_up</span>
+                    <span>随着交通和工业领域加速实现电气化，对可持续电池生产的需求不断增加</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">schedule</span>
+                    <span>欧洲议会计划在2035年前禁止销售新的内燃机汽车</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">analytics</span>
+                    <span>到2030年，欧盟所需的钴将是2018年的5倍，锂将是18倍</span>
+                </div>
+            </div>
+            
+            <div class="visual-element">
+                <h3>电池护照法规背景</h3>
+                <div class="list-item">
+                    <span class="material-icons">update</span>
+                    <span>2006年电池指令的更新旨在确保电池行业的可持续发展</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">gavel</span>
+                    <span>2023年7月，欧盟理事会通过了欧盟电池法规修正案</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">assignment</span>
+                    <span>规定了实现可持续电池生命周期的结构，其中包括电池护照</span>
+                </div>
+            </div>
+        </div>
+        <div class="slide-footer">
+            <span>两业融合研究中心</span>
+            <span>© 2024</span>
+        </div>
+    </div>
+    <div class="slide">
+        <div class="slide-title">
+            <span class="material-icons">architecture</span>
+            平台的解决方案和核心价值功能
+        </div>
+        <div class="slide-content">
+            <div class="visual-element">
+                <h3>平台的解决方案</h3>
+                <div class="list-item">
+                    <span class="material-icons">block</span>
+                    <span>区块链驱动的透明度：利用区块链技术建立可扩展且可验证的电池护照系统</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">share</span>
+                    <span>选择性数据共享：通过选择性数据共享技术，在满足监管要求的同时保护专有信息</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">verified</span>
+                    <span>一站式电池法规合规：收集并选择性共享欧盟电池法规所需的所有信息</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">integration_instructions</span>
+                    <span>集成实现效率提升：通过API将ERP和其他数据系统与电池护照集成</span>
+                </div>
+            </div>
+            
+            <div class="visual-element">
+                <h3>核心价值功能</h3>
+                <div class="list-item">
+                    <span class="material-icons">verified_user</span>
+                    <span>数据可靠性：使用原始数据、经过验证的声明和第三方验证</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">rule</span>
+                    <span>满足法规要求：自动填充电池护照所需的识别、基本特性和性能数据</span>
+                </div>
+            </div>
+        </div>
+        <div class="slide-footer">
+            <span>两业融合研究中心</span>
+            <span>© 2024</span>
+        </div>
+    </div>
+    <div class="slide">
+        <div class="slide-title">
+            <span class="material-icons">dashboard</span>
+            平台系统演示与实际案例展示
+        </div>
+        <div class="slide-content">
+            <div class="visual-element">
+                <h3>平台系统演示</h3>
+                <div class="list-item">
+                    <span class="material-icons">play_circle</span>
+                    <span>演示Circularise电池护照平台的操作流程</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">data_object</span>
+                    <span>包括如何添加原始数据、生成数字产品护照（DPP）</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">security</span>
+                    <span>通过合规工具将所需信息整合到产品护照中</span>
+                </div>
+            </div>
+            
+            <div class="visual-element">
+                <h3>实际案例展示</h3>
+                <div class="list-item">
+                    <span class="material-icons">factory</span>
+                    <span>矿商和精炼商：提供信息并保护数据隐私，共享范围1和2的排放指标</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">precision_manufacturing</span>
+                    <span>电池制造商：优化电池制造数据流，控制数据共享以增强尽职调查</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">directions_car</span>
+                    <span>车辆品牌商：利用可信的电池数据推动可持续发展</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">recycling</span>
+                    <span>报废处理器：利用可操作数据提升报废运营效率</span>
+                </div>
+            </div>
+        </div>
+        <div class="slide-footer">
+            <span>两业融合研究中心</span>
+            <span>© 2024</span>
+        </div>
+    </div>
+    <div class="slide">
+        <div class="slide-title">
+            <span class="material-icons">business</span>
+            可持续供应链的入场券
+        </div>
+        <div class="slide-content">
+            <div class="visual-element">
+                <h3>全球供应链</h3>
+                <div class="list-item">
+                    <span class="material-icons">public</span>
+                    <span>覆盖超过275,000家公司和超过1,000,000个地点</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">inventory_2</span>
+                    <span>每天处理数十亿个零部件</span>
+                </div>
+            </div>
+            
+            <div class="visual-element">
+                <h3>核心价值</h3>
+                <div class="list-item">
+                    <span class="material-icons">carbon</span>
+                    <span>报告验证的产品碳足迹（PCF）：支持ISO14067等20多个核算标准</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">badge</span>
+                    <span>数字身份：商业伙伴：接收最新的地点证书和关税信息</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">sync</span>
+                    <span>实时质量循环：创建产品/电池护照</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">language</span>
+                    <span>全球供应能力：优化库存和物流管理</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">map</span>
+                    <span>覆盖区域差异：执行供应链尽职调查</span>
+                </div>
+            </div>
+        </div>
+        <div class="slide-footer">
+            <span>两业融合研究中心</span>
+            <span>© 2024</span>
+        </div>
+    </div>
+    <div class="slide">
+        <div class="slide-title">
+            <span class="material-icons">trending_up</span>
+            奇瑞千亿需求，外部万亿市场
+        </div>
+        <div class="slide-content">
+            <div class="visual-element">
+                <h3>提升绿材竞争力、赋能ESG精准降碳</h3>
+                <div class="list-item">
+                    <span class="material-icons">recycling</span>
+                    <span>再生材料销售：再生金属、塑料等材料，汽车零部件等产品销售</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">engineering</span>
+                    <span>技术服务输出：危废处置服务，技术解决方案及设备支持</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">eco</span>
+                    <span>碳资产收益：绿铝生产、资源循环利用等减少碳排放，碳交易市场</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">savings</span>
+                    <span>内部成本节约：通过再生材料的使用和内部流程优化，降低生产成本</span>
+                </div>
+            </div>
+            
+            <div class="visual-element">
+                <h3>解决供应链中的跨区域、跨行业协同计算方法</h3>
+                <div class="list-item">
+                    <span class="material-icons">sync_alt</span>
+                    <span>与欧洲/跨行业标准、工具链互通</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">public</span>
+                    <span>融入全球化商业生态</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">data_object</span>
+                    <span>方法和数据模型的一致性</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">verified</span>
+                    <span>符合化工行业的TfS PCF标准</span>
+                </div>
+            </div>
+        </div>
+        <div class="slide-footer">
+            <span>两业融合研究中心</span>
+            <span>© 2024</span>
+        </div>
+    </div>
+    <div class="slide">
+        <div class="slide-title">
+            <span class="material-icons">speed</span>
+            端边协同、硬软一体，提效>30倍
+        </div>
+        <div class="slide-content">
+            <div class="visual-element">
+                <h3>AI数据清洗，一站式核算</h3>
+                <div class="list-item">
+                    <span class="material-icons">cleaning_services</span>
+                    <span>采集数据源头，可自证溯源</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">power</span>
+                    <span>合理用能，精准降碳</span>
+                </div>
+            </div>
+            
+            <div class="visual-element">
+                <h3>7B-32B参数高推理能力大模型</h3>
+                <div class="list-item">
+                    <span class="material-icons">psychology</span>
+                    <span>SFT模型精调、RAG增强检索技术</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">search</span>
+                    <span>实现数据精准识别</span>
+                </div>
+            </div>
+            
+            <div class="visual-element">
+                <h3>晓碳・碳管家AGENT智能体</h3>
+                <div class="list-item">
+                    <span class="material-icons">smart_toy</span>
+                    <span>通过大模型任务拆分、利用PlanningTool进行智能动态规划</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">hub</span>
+                    <span>结合MCP协议及多智能体（AI Agent）协同</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">rocket_launch</span>
+                    <span>达成复杂任务的高效执行</span>
+                </div>
+            </div>
+            
+            <div class="visual-element">
+                <h3>智能终端・碳神经元</h3>
+                <div class="list-item">
+                    <span class="material-icons">memory</span>
+                    <span>采用本地化部署方案</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">security</span>
+                    <span>保障数据绝对安全</span>
+                </div>
+            </div>
+        </div>
+        <div class="slide-footer">
+            <span>两业融合研究中心</span>
+            <span>© 2024</span>
+        </div>
+    </div>
+    <div class="slide">
+        <div class="slide-title">
+            <span class="material-icons">hub</span>
+            园区、产业协同：电碳协同AI大模型技术驱动
+        </div>
+        <div class="slide-content">
+            <div class="visual-element">
+                <h3>预测技术</h3>
+                <div class="list-item">
+                    <span class="material-icons">psychology</span>
+                    <span>采用能源大模型实现分布式光伏、小水电、县域负荷预测</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">electric_bolt</span>
+                    <span>支撑零碳电网的智慧运行与运营</span>
+                </div>
+            </div>
+            
+            <div class="visual-element">
+                <h3>运营技术</h3>
+                <div class="list-item">
+                    <span class="material-icons">sync_alt</span>
+                    <span>结合电力市场机制与碳市场机制</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">trending_up</span>
+                    <span>协同中长期交易、现货交易和电力辅助服务等不同交易周期的多品种交易</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">optimization</span>
+                    <span>实现电碳联合收益最大化</span>
+                </div>
+            </div>
+            
+            <div class="visual-element">
+                <h3>评估技术</h3>
+                <div class="list-item">
+                    <span class="material-icons">analytics</span>
+                    <span>结合规划、运行与运营多时空尺度的管理需求</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">assessment</span>
+                    <span>建立多维指标体系，实现全面评价与分析</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">feedback</span>
+                    <span>形成反馈机制，进行调整和优化系统运营与运行效能</span>
+                </div>
+            </div>
+        </div>
+        <div class="slide-footer">
+            <span>两业融合研究中心</span>
+            <span>© 2024</span>
+        </div>
+    </div>
+    <div class="slide">
+        <div class="slide-title">
+            <span class="material-icons">dashboard</span>
+            平台系统功能概览
+        </div>
+        <div class="slide-content">
+            <div class="visual-element">
+                <h3>电子护照（DPP）</h3>
+                <div class="list-item">
+                    <span class="material-icons">carbon</span>
+                    <span>范围1、2、3碳排放实时核算，支持ISO14067等20+核算标准</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">verified</span>
+                    <span>认证直通：接入各国际认证机构，内置ISCC PLUS/ASI等认证规则引擎</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">hub</span>
+                    <span>生态互联：深度对接Catena-X数据标准，实现汽车、电池等产业生态数据互认</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">track_changes</span>
+                    <span>溯源认证：覆盖原材料采购→生产加工→仓储运输→终端回收全链条</span>
+                </div>
+            </div>
+            
+            <div class="visual-element">
+                <h3>核心功能</h3>
+                <div class="list-item">
+                    <span class="material-icons">gavel</span>
+                    <span>合规先行：覆盖欧盟最新法规库，动态预警政策变化</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">groups</span>
+                    <span>生态赋能：接入全球超200家回收商、认证机构资源池</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">payments</span>
+                    <span>商业闭环：通过碳资产管理与绿色金融接口，直接创造碳汇收益</span>
+                </div>
+            </div>
+        </div>
+        <div class="slide-footer">
+            <span>两业融合研究中心</span>
+            <span>© 2024</span>
+        </div>
+    </div>
+    <div class="slide">
+        <div class="slide-title">
+            <span class="material-icons">strategy</span>
+            市场打法：链主切入，覆盖上游
+        </div>
+        <div class="slide-content">
+            <div class="visual-element">
+                <h3>奇瑞汽车</h3>
+                <div class="list-item">
+                    <span class="material-icons">business</span>
+                    <span>供应链规模：零部件企业10000余家，非零部件企业45200余家</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">target</span>
+                    <span>2030目标：500万台，所需材料包括：</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">inventory_2</span>
+                    <span>碳酸锂80万吨、有色20万吨、塑料150万吨、钢铁475万吨、油5万吨、纸1.5万吨、催化剂1.5万吨、电子料0.8万吨</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">recycling</span>
+                    <span>供应链价值：再生材料占总需求的25%</span>
+                </div>
+            </div>
+            
+            <div class="visual-element">
+                <h3>收入模型</h3>
+                <div class="list-item">
+                    <span class="material-icons">architecture</span>
+                    <span>搭建链主的供应链追溯数据体系、数字化管理平台、产品准入体系</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">trending_up</span>
+                    <span>靠上游庞大供应链规模实现持续收费</span>
+                </div>
+                <div class="list-item">
+                    <span class="material-icons">payments</span>
+                    <span>产品供应链准入认证服务费 + 初始化阶段的技术服务费 + 采购周期（年）订阅费 + 附加收入分成（如产品代销）= n亿/年</span>
+                </div>
+            </div>
+        </div>
+        <div class="slide-footer">
+            <span>两业融合研究中心</span>
+            <span>© 2024</span>
+        </div>
+    </div>
+</body>
+</html>
