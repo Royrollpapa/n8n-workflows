@@ -1,11 +1,16 @@
 # Markdown演示文稿转换工具 (MD-Presenter)
 
 ## 项目简介
-本项目是一个功能强大的Markdown演示文稿转换工具，支持将Markdown文档转换为HTML和PowerPoint格式。它能够自动识别文档中的数据并生成相应的图表，是制作专业演示文稿的理想选择。
+本项目是一个功能强大的文档转换工具，支持以下功能：
+1. Markdown文档转换为HTML和PowerPoint格式
+2. Word文档处理（格式优化、摘要生成、关键词提取等）
+3. 自动识别数据并生成图表
+4. 支持多种文档格式的互转
 
 ## 功能特点
 - 📝 Markdown转HTML
 - 📊 HTML转PowerPoint
+- 📄 Word文档处理
 - 🎨 自定义主题和样式
 - 🔄 自动化转换流程
 - 📱 响应式设计支持
@@ -19,14 +24,17 @@ project/
 ├── resources/             # 静态资源目录（如logo、图标等）
 │   └── images/
 ├── src/
-│   ├── input/             # 用户输入文件（仅支持.md）
+│   ├── input/             # 用户输入文件（支持.md和.docx）
 │   ├── output/            # 输出文件（.html, .pptx等）
 │   ├── templates/         # Jinja2等模板文件
 │   └── scripts/           # 所有核心脚本和主程序
 │       ├── md_to_html.py  # Markdown转HTML（自动图表/表格）
 │       ├── md_to_ppt.py   # Markdown转PPT（自动图表/表格）
-│       ├── interactive.py # 图形界面主程序（可选）
-│       └── ...
+│       ├── word_processor/# Word文档处理模块
+│       │   ├── main.py    # Word处理主程序
+│       │   ├── document_processor.py  # 文档处理核心
+│       │   └── ...
+│       └── interactive.py # 图形界面主程序（可选）
 ├── requirements.txt       # 依赖包列表
 └── README.md              # 项目说明
 ```
@@ -41,6 +49,7 @@ project/
 ## 入口说明
 - Markdown转HTML：`src/scripts/md_to_html.py`
 - Markdown转PPT：`src/scripts/md_to_ppt.py`
+- Word文档处理：`src/scripts/word_processor/main.py`
 - 图形界面（可选）：`src/scripts/interactive.py`
 
 ## 自动图表与表格说明
@@ -205,3 +214,11 @@ MIT License
 > - 建议每组数据单独成表，便于自动识别。
 
 ---
+
+## Word文档处理功能
+- 读取Word文档内容
+- 优化文档格式（字体、大小、对齐方式等）
+- 添加文档摘要
+- 提取关键词
+- 添加水印
+- 保存文档
