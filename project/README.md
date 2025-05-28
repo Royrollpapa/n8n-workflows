@@ -1,7 +1,7 @@
-# 循环溯源数字化平台
+# Markdown演示文稿转换工具 (MD-Presenter)
 
 ## 项目简介
-本项目是一个基于Markdown的演示文稿转换工具，支持将Markdown文档转换为HTML和PowerPoint格式。主要用于生成循环溯源数字化平台相关的演示文稿。
+本项目是一个功能强大的Markdown演示文稿转换工具，支持将Markdown文档转换为HTML和PowerPoint格式。它能够自动识别文档中的数据并生成相应的图表，是制作专业演示文稿的理想选择。
 
 ## 功能特点
 - 📝 Markdown转HTML

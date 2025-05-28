@@ -1,0 +1,201 @@
+    INFO: 2025-05-28 13:22:32,846:               log.py:   20: Logging to D:\cursor\Doc_Project\mdpdf.log
+   DEBUG: 2025-05-28 13:22:32,846:               cli.py:  103: ../Docs/wen_speech.md
+    INFO: 2025-05-28 13:22:32,846:         converter.py:   14: ../Docs/wen_speech.md
+   DEBUG: 2025-05-28 13:22:32,855:      pdf_renderer.py:  470: printSegment: 温松英（Ms. Wen, Song Ying, Linda）发言内容完善版
+   DEBUG: 2025-05-28 13:22:32,893:      pdf_renderer.py:  470: printSegment: 说明
+   DEBUG: 2025-05-28 13:22:32,899:      pdf_renderer.py:  470: printSegment: ：仅包含温松英相关内容，其他嘉宾内容未做修改。
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment: 目录
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment: 自我介绍
+   ERROR: 2025-05-28 13:22:32,943:      pdf_renderer.py:  217: D:\cursor\Doc_Project\..\Docs\wen_speech.md:8: #1-%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8Dself-introduction: No such file or directory
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment: 对全球循环经济机遇的观察
+   ERROR: 2025-05-28 13:22:32,943:      pdf_renderer.py:  217: D:\cursor\Doc_Project\..\Docs\wen_speech.md:9: #2-%E5%AF%B9%E5%85%A8%E7%90%83%E5%BE%AA%E7%8E%AF%E7%BB%8F%E6%B5%8E%E6%9C%BA%E9%81%87%E7%9A%84%E8%A7%82%E5%AF%9Fobservations-on-global-circular-economy-opportunities: No such file or directory
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment: 技术与生态合作的实践
+   ERROR: 2025-05-28 13:22:32,943:      pdf_renderer.py:  217: D:\cursor\Doc_Project\..\Docs\wen_speech.md:10: #3-%E6%8A%80%E6%9C%AF%E4%B8%8E%E7%94%9F%E6%80%81%E5%90%88%E4%BD%9C%E7%9A%84%E5%AE%9E%E8%B7%B5practices-in-technology-and-ecosystem-cooperation: No such file or directory
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment: 对人才的思考
+   ERROR: 2025-05-28 13:22:32,943:      pdf_renderer.py:  217: D:\cursor\Doc_Project\..\Docs\wen_speech.md:11: #4-%E5%AF%B9%E4%BA%BA%E6%89%8D%E7%9A%84%E6%80%9D%E8%80%83thoughts-on-talent-development: No such file or directory
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment: 未来可持续发展愿景
+   ERROR: 2025-05-28 13:22:32,943:      pdf_renderer.py:  217: D:\cursor\Doc_Project\..\Docs\wen_speech.md:12: #5-%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95%E6%84%BF%E6%99%AFvision-for-future-sustainable-development: No such file or directory
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment: 1. 自我介绍（Self-introduction）
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment: | 中文 | English |
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2025-05-28 13:22:32,943:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-05-28 13:22:33,019:      pdf_renderer.py:  470: printSegment: | 各位嘉宾、同仁大家好，我是温松英，现任芜湖奇瑞资源技术有限公司董事长。奇瑞资源是奇瑞控股集团旗下专注于循环经济与绿色制造的核心企业。自2006年成立以来，我们始终致力于城市矿产开发、动力电池回收与再利用、汽车拆解与再制造等领域，推动绿色低碳转型。2024年3月，我有幸代表奇瑞参加德国汉诺威工业博览会，并拜访了西门子德国总部，与西门子全球可持续发展团队深入交流。我们一致认为，循环经济和可持续发展是全球产业升级的必由之路。目前，奇瑞与西门子正在就循环经济领域的重要难点痛点问题解决方案进行合作策划，期待未来在数字化工厂、碳中和、AI驱动的智能回收等领域展开深入合作，携手赋能中国制造业绿色转型。 | Dear guests and colleagues,
+   DEBUG: 2025-05-28 13:22:33,057:      pdf_renderer.py:  470: printSegment: I am Wen Song Ying, Chairwoman of Wuhu Chery Resources Technology Co., Ltd., a core subsidiary of Chery
+   DEBUG: 2025-05-28 13:22:33,074:      pdf_renderer.py:  470: printSegment: Holding Group focusing on circular economy and green manufacturing. Since our establishment in 2006, Chery
+   DEBUG: 2025-05-28 13:22:33,093:      pdf_renderer.py:  470: printSegment: Resources has been dedicated to urban mining, power battery recycling and reuse, vehicle dismantling and
+   DEBUG: 2025-05-28 13:22:33,100:      pdf_renderer.py:  470: printSegment: remanufacturing, driving the green and low-carbon transformation of the industry. In March 2024, I had the honor to
+   DEBUG: 2025-05-28 13:22:33,100:      pdf_renderer.py:  470: printSegment: represent Chery at the Hannover Messe in Germany and visited Siemens headquarters, where I had in-depth
+   DEBUG: 2025-05-28 13:22:33,100:      pdf_renderer.py:  470: printSegment: discussions with Siemens
+   DEBUG: 2025-05-28 13:22:33,100:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-05-28 13:22:33,128:      pdf_renderer.py:  470: printSegment:  global sustainability team. We share the belief that circular economy and sustainable
+   DEBUG: 2025-05-28 13:22:33,143:      pdf_renderer.py:  470: printSegment: development are the inevitable path for global industrial upgrading. Currently, Chery and Siemens are planning
+   DEBUG: 2025-05-28 13:22:33,149:      pdf_renderer.py:  470: printSegment: cooperation on solutions for key challenges in the circular economy field, looking forward to future in-depth
+   DEBUG: 2025-05-28 13:22:33,152:      pdf_renderer.py:  470: printSegment: collaboration in digital factories, carbon neutrality, and AI-driven intelligent recycling, jointly empowering the
+   DEBUG: 2025-05-28 13:22:33,152:      pdf_renderer.py:  470: printSegment: green transformation of Chinese manufacturing. |
+   DEBUG: 2025-05-28 13:22:33,153:      pdf_renderer.py:  470: printSegment: 2. 对全球循环经济机遇的观察（Observations on Global Circular Economy Opportunities）
+   DEBUG: 2025-05-28 13:22:33,154:      pdf_renderer.py:  470: printSegment: | 中文 | English |
+   DEBUG: 2025-05-28 13:22:33,154:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-05-28 13:22:33,154:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2025-05-28 13:22:33,155:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-05-28 13:22:33,155:      pdf_renderer.py:  470: printSegment: | 当前，全球循环经济正迎来前所未有的发展机遇。根据麦肯锡2023年报告，预计到2030年，全球循环经济市场规模将达到4.5万亿美元。中国政府高度重视循环经济发展，出台了《
+   DEBUG: 2025-05-28 13:22:33,155:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,156:      pdf_renderer.py:  470: printSegment: 十四五
+   DEBUG: 2025-05-28 13:22:33,156:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,156:      pdf_renderer.py:  470: printSegment: 循环经济发展规划》，明确提出到2025年，循环经济产值占GDP比重将显著提升。汽车产业作为循环经济的重点领域，动力电池回收、再制造、材料再利用等环节蕴含巨大市场空间。奇瑞资源已建成国内领先的动力电池回收与梯次利用基地，年处理能力超10万吨，并考虑与西门子合作，推动智能化、数字化回收体系建设。
+   DEBUG: 2025-05-28 13:22:33,157:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,159:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,160:      pdf_renderer.py:  470: printSegment: 在具体实践方面，奇瑞正在构建完整的循环经济产业链：
+   DEBUG: 2025-05-28 13:22:33,161:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,161:      pdf_renderer.py:  470: printSegment: 1.
+   DEBUG: 2025-05-28 13:22:33,161:      pdf_renderer.py:  470: printSegment: 上游资源端：布局战略矿产资源，确保原材料供应安全
+   DEBUG: 2025-05-28 13:22:33,162:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,162:      pdf_renderer.py:  470: printSegment: 2. 中游循环端：升级冶炼工艺，推动汽车拆解再造，实现CAR TO CAR闭环
+   DEBUG: 2025-05-28 13:22:33,163:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,163:      pdf_renderer.py:  470: printSegment: 3. 下游流通端：建立二手车交易平台，发展零部件再制造，构建价值再生体系
+   DEBUG: 2025-05-28 13:22:33,164:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,164:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,181:      pdf_renderer.py:  470: printSegment: 根据欧盟电池护照法规要求和ESPR可持续设计要求，我们需要建立完整的产品护照体系，包括电池护照、铝制品、润滑油等车产业链中的原材料与零部件，实现全链条追溯的绿色供应链管理。通过使用数字化工具，确保与国际法规接轨，提升产品在国际市场的竞争力。 | At present, the global
+   DEBUG: 2025-05-28 13:22:33,191:      pdf_renderer.py:  470: printSegment: circular economy is embracing unprecedented opportunities. According to a 2023 McKinsey report, the global
+   DEBUG: 2025-05-28 13:22:33,195:      pdf_renderer.py:  470: printSegment: circular economy market is expected to reach $4.5 trillion by 2030. The Chinese government attaches great
+   DEBUG: 2025-05-28 13:22:33,196:      pdf_renderer.py:  470: printSegment: importance to the development of the circular economy, as reflected in the 
+   DEBUG: 2025-05-28 13:22:33,196:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,197:      pdf_renderer.py:  470: printSegment: 14th Five-Year Plan for Circular
+   DEBUG: 2025-05-28 13:22:33,197:      pdf_renderer.py:  470: printSegment: Economy Development,
+   DEBUG: 2025-05-28 13:22:33,197:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,223:      pdf_renderer.py:  470: printSegment:  which aims to significantly increase the share of circular economy in GDP by 2025. The
+   DEBUG: 2025-05-28 13:22:33,240:      pdf_renderer.py:  470: printSegment: automotive industry is a key sector, with huge market potential in power battery recycling, remanufacturing, and
+   DEBUG: 2025-05-28 13:22:33,248:      pdf_renderer.py:  470: printSegment: material reuse. Chery Resources has established a leading domestic base for power battery recycling and cascade
+   DEBUG: 2025-05-28 13:22:33,251:      pdf_renderer.py:  470: printSegment: utilization, with an annual processing capacity exceeding 100,000 tons, and is considering cooperation with Siemens
+   DEBUG: 2025-05-28 13:22:33,252:      pdf_renderer.py:  470: printSegment: to promote intelligent and digital recycling systems.
+   DEBUG: 2025-05-28 13:22:33,252:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,253:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,254:      pdf_renderer.py:  470: printSegment: In terms of specific practices, Chery is building a
+   DEBUG: 2025-05-28 13:22:33,255:      pdf_renderer.py:  470: printSegment: complete circular economy industry chain:
+   DEBUG: 2025-05-28 13:22:33,255:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,256:      pdf_renderer.py:  470: printSegment: 1. Upstream resources: Strategic mineral resource layout to ensure
+   DEBUG: 2025-05-28 13:22:33,257:      pdf_renderer.py:  470: printSegment: raw material supply security
+   DEBUG: 2025-05-28 13:22:33,257:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,260:      pdf_renderer.py:  470: printSegment: 2. Midstream recycling: Upgrading smelting processes, promoting vehicle
+   DEBUG: 2025-05-28 13:22:33,261:      pdf_renderer.py:  470: printSegment: dismantling and remanufacturing, achieving CAR TO CAR closed loop
+   DEBUG: 2025-05-28 13:22:33,262:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,264:      pdf_renderer.py:  470: printSegment: 3. Downstream circulation:
+   DEBUG: 2025-05-28 13:22:33,265:      pdf_renderer.py:  470: printSegment: Establishing used car trading platforms, developing parts remanufacturing, building value regeneration systems
+   DEBUG: 2025-05-28 13:22:33,266:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,266:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,294:      pdf_renderer.py:  470: printSegment: According to EU Battery Passport regulations and ESPR sustainable design requirements, we need to
+   DEBUG: 2025-05-28 13:22:33,311:      pdf_renderer.py:  470: printSegment: establish a complete product passport system, including battery passports, aluminum products, lubricants, and other
+   DEBUG: 2025-05-28 13:22:33,319:      pdf_renderer.py:  470: printSegment: raw materials and components in the automotive industry chain, achieving full-chain traceability in green supply
+   DEBUG: 2025-05-28 13:22:33,322:      pdf_renderer.py:  470: printSegment: chain management. Through the use of digital tools, we ensure alignment with international regulations and enhance
+   DEBUG: 2025-05-28 13:22:33,322:      pdf_renderer.py:  470: printSegment: product competitiveness in the global market. |
+   DEBUG: 2025-05-28 13:22:33,325:      pdf_renderer.py:  470: printSegment: 3. 技术与生态合作的实践（Practices in Technology and Ecosystem Cooperation）
+   DEBUG: 2025-05-28 13:22:33,326:      pdf_renderer.py:  470: printSegment: | 中文 | English |
+   DEBUG: 2025-05-28 13:22:33,327:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-05-28 13:22:33,327:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2025-05-28 13:22:33,327:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-05-28 13:22:33,328:      pdf_renderer.py:  470: printSegment: | 奇瑞与西门子正在就智能制造、AI等领域开展合作（此处请西门子补充奇瑞集团合作案例）。在循环经济领域，计划借鉴西门子的经验，如
+   DEBUG: 2025-05-28 13:22:33,328:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,328:      pdf_renderer.py:  470: printSegment: SiGreen
+   DEBUG: 2025-05-28 13:22:33,328:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,329:      pdf_renderer.py:  470: printSegment: 碳平台，帮助奇瑞循环经济提高碳管理数字化水平，提升国际合规能力。同时，优化零碳园区的能碳管理与智能化水平，实现全流程碳排放数据的实时采集与追踪，助力企业精准减碳。
+   DEBUG: 2025-05-28 13:22:33,329:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,330:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,330:      pdf_renderer.py:  470: printSegment: 在供应链方面，奇瑞拥有超过10,000家零部件企业与40,000家非零部件企业。2024年，奇瑞全球销量突破200万辆，同比增长超过40%，连续22年位居中国车企出口量首位。为满足生产需求，我们对原材料需求量巨大，包括：金属、塑料、油品、催化剂、电池原料等。通过循环经济模式，我们计划提升再生、绿色材料占总需求的比例，持续优化供应链的可持续发展能力。
+   DEBUG: 2025-05-28 13:22:33,331:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,331:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,341:      pdf_renderer.py:  470: printSegment: 我们深信，只有通过跨界生态合作，才能实现循环经济的系统性突破。为此，我们正在构建一个开放的合作平台，整合全球回收商和认证机构的资源，通过碳资产管理与绿色金融接口，直接创造碳汇收益。 | Chery and Siemens are
+   DEBUG: 2025-05-28 13:22:33,345:      pdf_renderer.py:  470: printSegment: currently exploring cooperation in intelligent manufacturing and AI (Siemens to provide specific collaboration cases
+   DEBUG: 2025-05-28 13:22:33,346:      pdf_renderer.py:  470: printSegment: with Chery Group). In the circular economy field, we plan to leverage Siemens
+   DEBUG: 2025-05-28 13:22:33,347:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-05-28 13:22:33,347:      pdf_renderer.py:  470: printSegment:  expertise, such as the 
+   DEBUG: 2025-05-28 13:22:33,347:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,348:      pdf_renderer.py:  470: printSegment: SiGreen
+   DEBUG: 2025-05-28 13:22:33,348:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,349:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-05-28 13:22:33,349:      pdf_renderer.py:  470: printSegment: carbon platform, to enhance Chery Resources
+   DEBUG: 2025-05-28 13:22:33,349:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-05-28 13:22:33,360:      pdf_renderer.py:  470: printSegment:  digital carbon management capabilities and international compliance.
+   DEBUG: 2025-05-28 13:22:33,365:      pdf_renderer.py:  470: printSegment: Additionally, we aim to optimize energy and carbon management in zero-carbon parks through intelligent solutions,
+   DEBUG: 2025-05-28 13:22:33,366:      pdf_renderer.py:  470: printSegment: enabling real-time collection and tracking of carbon emission data throughout the process to achieve precise carbon
+   DEBUG: 2025-05-28 13:22:33,366:      pdf_renderer.py:  470: printSegment: reduction.
+   DEBUG: 2025-05-28 13:22:33,367:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,367:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,374:      pdf_renderer.py:  470: printSegment: In terms of supply chain, Chery has over 10,000 parts suppliers and 40,000 non-parts
+   DEBUG: 2025-05-28 13:22:33,376:      pdf_renderer.py:  470: printSegment: suppliers. In 2024, Chery achieved global sales exceeding 2 million units, representing a year-on-year growth of
+   DEBUG: 2025-05-28 13:22:33,377:      pdf_renderer.py:  470: printSegment: over 40%, maintaining its position as China
+   DEBUG: 2025-05-28 13:22:33,377:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-05-28 13:22:33,396:      pdf_renderer.py:  470: printSegment: s leading automotive exporter for 22 consecutive years. To meet
+   DEBUG: 2025-05-28 13:22:33,409:      pdf_renderer.py:  470: printSegment: production demands, we require substantial raw materials including metals, plastics, oil products, catalysts, and
+   DEBUG: 2025-05-28 13:22:33,415:      pdf_renderer.py:  470: printSegment: battery raw materials. Through the circular economy model, we plan to increase the proportion of recycled and
+   DEBUG: 2025-05-28 13:22:33,416:      pdf_renderer.py:  470: printSegment: green materials in total demand, continuously optimizing the sustainable development capabilities of our supply
+   DEBUG: 2025-05-28 13:22:33,417:      pdf_renderer.py:  470: printSegment: chain.
+   DEBUG: 2025-05-28 13:22:33,417:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,417:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,432:      pdf_renderer.py:  470: printSegment: We firmly believe that only through cross-sector ecosystem cooperation can we achieve systemic
+   DEBUG: 2025-05-28 13:22:33,438:      pdf_renderer.py:  470: printSegment: breakthroughs in the circular economy. To this end, we are building an open cooperation platform that integrates
+   DEBUG: 2025-05-28 13:22:33,441:      pdf_renderer.py:  470: printSegment: resources from global recyclers and certification bodies, directly creating carbon sink benefits through carbon asset
+   DEBUG: 2025-05-28 13:22:33,442:      pdf_renderer.py:  470: printSegment: management and green finance interfaces. |
+   DEBUG: 2025-05-28 13:22:33,443:      pdf_renderer.py:  470: printSegment: 4. 对人才的思考（Thoughts on Talent Development）
+   DEBUG: 2025-05-28 13:22:33,444:      pdf_renderer.py:  470: printSegment: | 中文 | English |
+   DEBUG: 2025-05-28 13:22:33,444:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-05-28 13:22:33,444:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2025-05-28 13:22:33,444:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-05-28 13:22:33,445:      pdf_renderer.py:  470: printSegment: | 循环经济和可持续发展对复合型、跨学科人才提出了更高要求。奇瑞高度重视绿色创新人才的培养，考虑与外部企业合作例如西门子，发起
+   DEBUG: 2025-05-28 13:22:33,446:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,446:      pdf_renderer.py:  470: printSegment: 绿色创新人才计划
+   DEBUG: 2025-05-28 13:22:33,446:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,460:      pdf_renderer.py:  470: printSegment: ，通过产教融合、国际交流、实训基地建设等方式，培养具备数字化、智能制造、碳管理等能力的专业团队。我们还积极引进海外高端人才，组建国际化研发团队，推动技术创新与全球协同。未来，奇瑞将继续深化与合作伙伴的人才交流，共同打造开放、包容、可持续的人才生态。 | The circular economy and sustainable development
+   DEBUG: 2025-05-28 13:22:33,466:      pdf_renderer.py:  470: printSegment: place higher demands on interdisciplinary and cross-sector talents. Chery attaches great importance to cultivating
+   DEBUG: 2025-05-28 13:22:33,467:      pdf_renderer.py:  470: printSegment: green innovation talents and is considering cooperation with external enterprises such as Siemens to launch the 
+   DEBUG: 2025-05-28 13:22:33,468:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,469:      pdf_renderer.py:  470: printSegment: Green Innovation Talent Program,
+   DEBUG: 2025-05-28 13:22:33,469:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,477:      pdf_renderer.py:  470: printSegment:  fostering professional teams with capabilities in digitalization, intelligent
+   DEBUG: 2025-05-28 13:22:33,482:      pdf_renderer.py:  470: printSegment: manufacturing, and carbon management through industry-education integration, international exchanges, and
+   DEBUG: 2025-05-28 13:22:33,483:      pdf_renderer.py:  470: printSegment: training base construction. We also actively attract overseas high-end talents and build international R
+   DEBUG: 2025-05-28 13:22:33,483:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2025-05-28 13:22:33,489:      pdf_renderer.py:  470: printSegment: D teams to
+   DEBUG: 2025-05-28 13:22:33,493:      pdf_renderer.py:  470: printSegment: drive technological innovation and global collaboration. In the future, Chery will continue to deepen talent
+   DEBUG: 2025-05-28 13:22:33,494:      pdf_renderer.py:  470: printSegment: exchanges with partners to jointly create an open, inclusive, and sustainable talent ecosystem. |
+   DEBUG: 2025-05-28 13:22:33,496:      pdf_renderer.py:  470: printSegment: 5. 未来可持续发展愿景（Vision for Future Sustainable Development）
+   DEBUG: 2025-05-28 13:22:33,496:      pdf_renderer.py:  470: printSegment: | 中文 | English |
+   DEBUG: 2025-05-28 13:22:33,497:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-05-28 13:22:33,497:      pdf_renderer.py:  470: printSegment: |---|---|
+   DEBUG: 2025-05-28 13:22:33,498:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-05-28 13:22:33,498:      pdf_renderer.py:  470: printSegment: | 展望未来，奇瑞将以
+   DEBUG: 2025-05-28 13:22:33,499:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,499:      pdf_renderer.py:  470: printSegment: 零废弃、低碳排
+   DEBUG: 2025-05-28 13:22:33,500:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,500:      pdf_renderer.py:  470: printSegment: 为目标，持续推进循环经济与绿色制造创新。我们计划建立覆盖全球的循环经济产业链。根据欧盟ELV指令要求，我们将确保再生材料使用比例达标。同时，我们将建立完整的汽车全生命周期数据管理体系，满足ESPR与电池法规对电池及其他关键零部件、原材料绿色供应链追溯管理要求，实现产品护照的全球通行。
+   DEBUG: 2025-05-28 13:22:33,500:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,500:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,501:      pdf_renderer.py:  470: printSegment: 我们期待与西门子等全球领先企业深化合作，共同推动中国乃至全球汽车产业的可持续发展。 | Looking ahead, Chery will
+   DEBUG: 2025-05-28 13:22:33,502:      pdf_renderer.py:  470: printSegment: pursue the goals of 
+   DEBUG: 2025-05-28 13:22:33,502:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,503:      pdf_renderer.py:  470: printSegment: zero waste and low carbon emissions,
+   DEBUG: 2025-05-28 13:22:33,503:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-28 13:22:33,520:      pdf_renderer.py:  470: printSegment:  continuously advancing innovation in the circular
+   DEBUG: 2025-05-28 13:22:33,532:      pdf_renderer.py:  470: printSegment: economy and green manufacturing. We plan to establish a global circular economy industry chain. According to EU
+   DEBUG: 2025-05-28 13:22:33,537:      pdf_renderer.py:  470: printSegment: ELV directive requirements, we will ensure compliance with recycled material usage targets. Meanwhile, we will
+   DEBUG: 2025-05-28 13:22:33,538:      pdf_renderer.py:  470: printSegment: establish a comprehensive automotive lifecycle data management system to meet ESPR and battery regulations
+   DEBUG: 2025-05-28 13:22:33,538:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-05-28 13:22:33,542:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-05-28 13:22:33,544:      pdf_renderer.py:  470: printSegment: requirements for green supply chain traceability management of batteries and other key components and raw
+   DEBUG: 2025-05-28 13:22:33,545:      pdf_renderer.py:  470: printSegment: materials, achieving global recognition of product passports.
+   DEBUG: 2025-05-28 13:22:33,547:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,547:      pdf_renderer.py:  470: printSegment: <br>
+   DEBUG: 2025-05-28 13:22:33,551:      pdf_renderer.py:  470: printSegment: We look forward to deepening cooperation
+   DEBUG: 2025-05-28 13:22:33,552:      pdf_renderer.py:  470: printSegment: with Siemens and other global leaders to jointly promote the sustainable development of the automotive industry in
+   DEBUG: 2025-05-28 13:22:33,553:      pdf_renderer.py:  470: printSegment: China and worldwide. |
+   DEBUG: 2025-05-28 13:22:33,558:      pdf_renderer.py:   53: 0, [1, '温松英（Ms. Wen, Song Ying, Linda）发言内容完善版', 1, 68.0]
+   DEBUG: 2025-05-28 13:22:33,558:      pdf_renderer.py:   53: 1, [2, '目录', 1, 142.0]
+   DEBUG: 2025-05-28 13:22:33,559:      pdf_renderer.py:   53: 2, [2, '1. 自我介绍（Self-introduction）', 1, 259.6]
+   DEBUG: 2025-05-28 13:22:33,559:      pdf_renderer.py:   53: 3, [2, '2. 对全球循环经济机遇的观察（Observations on Global Circular Economy Opportunities）', 1, 443.20000000000005]
+   DEBUG: 2025-05-28 13:22:33,559:      pdf_renderer.py:   53: 4, [2, '3. 技术与生态合作的实践（Practices in Technology and Ecosystem Cooperation）', 2, 70.0]
+   DEBUG: 2025-05-28 13:22:33,559:      pdf_renderer.py:   53: 5, [2, '4. 对人才的思考（Thoughts on Talent Development）', 2, 325.6]
+   DEBUG: 2025-05-28 13:22:33,559:      pdf_renderer.py:   53: 6, [2, '5. 未来可持续发展愿景（Vision for Future Sustainable Development）', 2, 473.20000000000005]
